@@ -63,3 +63,8 @@ Your instructional team will provide support during classes and office hours. Yo
 2. Slides are relevant to material (5 points)
 3. Slides effectively demonstrate the project (5 points)
 4. Slides are clear and maintain audience interest (5 points)
+
+
+### Resources
+Agrawal, D. (2020). *Online Gaming Anxiety Data*. Kaggle. https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data/data
+Dom, J. (2022). *Gaming and Mental Health*. Kaggle. https://www.kaggle.com/datasets/alanpal/gaming-and-mental-health
