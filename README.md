@@ -67,4 +67,5 @@ Your instructional team will provide support during classes and office hours. Yo
 
 ### Resources
 Agrawal, D. (2020). *Online Gaming Anxiety Data*. Kaggle. https://www.kaggle.com/datasets/divyansh22/online-gaming-anxiety-data/data
+
 Dom, J. (2022). *Gaming and Mental Health*. Kaggle. https://www.kaggle.com/datasets/alanpal/gaming-and-mental-health
